@@ -12,4 +12,4 @@ tinta = area / 2
 
 # Saída dos resultados
 print(f"\n✅ A parede tem {area:.2f}m² de área.")
-print(f"🖌️ Você precisará de {tinta:.2f} litros de tinta para pintá-la.")
+print(f"🖌️ Você precisará de {tinta} litros de tinta para pintá-la.")
