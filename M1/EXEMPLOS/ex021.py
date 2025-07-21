@@ -2,7 +2,7 @@
 # Desenvolvido com amor e café ☕ por um dev animado!
 
 # DJ Python na área. Toque seu som!
-import pygame
+import pygame # type: ignore
 pygame.init()
 pygame.mixer.music.load("seuarquivo.mp3")
 pygame.mixer.music.play()

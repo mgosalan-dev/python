@@ -1,5 +1,4 @@
 # ex018 - Seno, Cosseno e Tangente
-# Desenvolvido com amor e café ☕ por um dev animado!
 
 from math import radians, sin, cos, tan
 from colorama import init, Fore, Style
