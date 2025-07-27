@@ -1,19 +1,7 @@
 # crie um Script que leia um valor um mostre todas as informações sobre ele 
 
-'''valor = input("Digite algo: ")
 
-print("-" * 40)
-print(f"Tipo primitivo: {type(valor)}")
-print(f"Só tem espaços? {valor.isspace()}")
-print(f"É um número? {valor.isnumeric()}")
-print(f"É alfabético? {valor.isalpha()}")
-print(f"É alfanumérico? {valor.isalnum()}")
-print(f"Está em maiúsculas? {valor.isupper()}")
-print(f"Está em minúsculas? {valor.islower()}")
-print(f"Está capitalizado? {valor.istitle()}")
-print("-" * 40)
 
-'''
 from colorama import init, Fore, Style
 
 # Inicializa o colorama no Windows
